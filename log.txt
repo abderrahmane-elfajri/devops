@@ -1,0 +1,23 @@
+commit f0c894f722ec5ed0f3e112fe2284b222db334bc3
+Author: rehab <elmedydyrehab@gmail.com>
+Date:   Fri Nov 22 14:25:50 2024 +0100
+
+    Add .gitignore to ignore files starting with '.'
+
+commit ac734f5db1746fb456afe754d1721709c271e0f2
+Author: rehab <elmedydyrehab@gmail.com>
+Date:   Fri Nov 22 14:22:33 2024 +0100
+
+    Add README.md to new feature branch
+
+commit 5270c4c825fbe07dfaf246c6a5934c5c7a861e71
+Author: rehab <elmedydyrehab@gmail.com>
+Date:   Fri Nov 22 14:20:07 2024 +0100
+
+    Add test.txt in dev branch
+
+commit 5a44625d51b4c0a5c0798ae652d806f6a33a7428
+Author: rehab <elmedydyrehab@gmail.com>
+Date:   Fri Nov 22 14:13:29 2024 +0100
+
+    add task1
